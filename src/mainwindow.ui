@@ -6,14 +6,14 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>686</width>
-    <height>407</height>
+    <width>689</width>
+    <height>589</height>
    </rect>
   </property>
   <property name="maximumSize">
    <size>
     <width>689</width>
-    <height>407</height>
+    <height>600</height>
    </size>
   </property>
   <property name="windowTitle">
@@ -27,13 +27,13 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>0</y>
+      <y>60</y>
       <width>691</width>
-      <height>371</height>
+      <height>451</height>
      </rect>
     </property>
     <property name="currentIndex">
-     <number>5</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="chip_tab">
      <attribute name="title">
@@ -45,7 +45,7 @@
         <x>9</x>
         <y>9</y>
         <width>671</width>
-        <height>320</height>
+        <height>394</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="verticalLayout">
@@ -207,7 +207,7 @@
           <x>10</x>
           <y>10</y>
           <width>661</width>
-          <height>211</height>
+          <height>222</height>
          </rect>
         </property>
         <layout class="QGridLayout" name="gridLayout_4">
@@ -355,7 +355,7 @@
           <x>10</x>
           <y>10</y>
           <width>661</width>
-          <height>291</height>
+          <height>318</height>
          </rect>
         </property>
         <layout class="QGridLayout" name="gridLayout_2">
@@ -1017,7 +1017,7 @@
         <x>10</x>
         <y>10</y>
         <width>661</width>
-        <height>329</height>
+        <height>389</height>
        </rect>
       </property>
       <layout class="QGridLayout" name="gridLayout_3">
@@ -1447,7 +1447,7 @@
       <x>450</x>
       <y>0</y>
       <width>231</width>
-      <height>21</height>
+      <height>41</height>
      </rect>
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout_7">
@@ -1459,12 +1459,6 @@
      </property>
      <item>
       <widget class="QPushButton" name="scan_pushButton">
-       <property name="maximumSize">
-        <size>
-         <width>75</width>
-         <height>19</height>
-        </size>
-       </property>
        <property name="text">
         <string>Scan</string>
        </property>
@@ -1492,8 +1486,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>686</width>
-     <height>22</height>
+     <width>689</width>
+     <height>37</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">

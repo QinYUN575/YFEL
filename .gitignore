@@ -76,3 +76,4 @@ YFEL/
 build-*
 src/cmake-build-*
 src/.idea/
+build
